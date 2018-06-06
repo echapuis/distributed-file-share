@@ -1,0 +1,9 @@
+This test is testing for
+if concurrency is maintained
+with a server falling down.
+This will first be uploaded
+by the client.
+A server will crash.
+Then be revived.
+Then the Client will request
+to download the file.
